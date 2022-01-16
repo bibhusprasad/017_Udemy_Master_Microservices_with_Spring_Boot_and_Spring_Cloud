@@ -47,4 +47,7 @@ Use case: simple limit-service to read data from properties file
 Use case: Spring cloud config server
 
 	scenario: set up local git repository
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/5cb10cc70d36e46581345e6fb15bb3f1d72483fa
+	
+	scenario: connect limits-service to spring-cloud-config-server
 	commit: 
