@@ -31,3 +31,6 @@ hs_err_pid*
 /restfulwebservices/.mvn/wrapper
 /*.bak
 /restfulwebservices/.mvn
+/limits-service/.mvn
+/limits-service/mvnw
+/limits-service/mvnw.cmd
