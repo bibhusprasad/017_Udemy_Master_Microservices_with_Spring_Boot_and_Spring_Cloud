@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.in28min.ws</groupId>
+    <groupId>com.in28min.ms</groupId>
     <artifactId>limits-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>limits-service</name>

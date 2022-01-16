@@ -41,4 +41,4 @@ Section 5: Microservices with Spring cloud version 1
 Use case: Spring cloud config server
 
 	scenario: simple limit service to read data from properties file
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/7ad41139e5ee50ba9fb7ca8085cc03848fc98dd2
