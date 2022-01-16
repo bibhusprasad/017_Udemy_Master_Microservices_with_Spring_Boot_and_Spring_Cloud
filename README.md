@@ -25,4 +25,9 @@ Section 3: Restful Web Services with Spring boot
 	scenario: Actuator Implementation
 	http://localhost:8080/actuator
 	management.endpoints.web.exposure.include=*
-	commit:
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/d4c681203633f3520680cbdf9c3f4c2671b486f8
+	
+	scenario: Visualizing API with HAL Explore
+	http://localhost:8080/
+	commit: 
+	
