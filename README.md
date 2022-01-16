@@ -20,4 +20,9 @@ Section 3: Restful Web Services with Spring boot
 	scenario: Swagger Implementation
 	http://localhost:8080/swagger-ui/index.html
 	http://localhost:8080/v3/api-docs
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/168ded511dcaaee02bd668f0357af844fcb0692f
+	
+	scenario: Actuator Implementation
+	http://localhost:8080/actuator
+	management.endpoints.web.exposure.include=*
+	commit:
