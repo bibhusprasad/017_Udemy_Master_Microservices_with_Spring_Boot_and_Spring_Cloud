@@ -34,3 +34,6 @@ hs_err_pid*
 /limits-service/.mvn
 /limits-service/mvnw
 /limits-service/mvnw.cmd
+/spring-cloud-config-server/.mvn
+/spring-cloud-config-server/mvnw.cmd
+/spring-cloud-config-server/mvnw

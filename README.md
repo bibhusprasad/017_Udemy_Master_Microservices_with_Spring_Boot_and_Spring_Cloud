@@ -38,7 +38,13 @@ Section 3: Restful Web Services with Spring boot
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/c2e7bef315659d6cd53e9dbdba09045d712c2568
 	
 Section 5: Microservices with Spring cloud version 1
-Use case: Spring cloud config server
+Use case: simple limit-service to read data from properties file
 
 	scenario: simple limit service to read data from properties file
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/7ad41139e5ee50ba9fb7ca8085cc03848fc98dd2
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/c762cfedb75aa753bf4b2a3ba38452808ae8ede4 (package name changed ws->ms)
+	
+Use case: Spring cloud config server
+
+	scenario: set up local git repository
+	commit: 
