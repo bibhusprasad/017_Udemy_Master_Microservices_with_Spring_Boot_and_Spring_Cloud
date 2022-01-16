@@ -12,4 +12,7 @@ Section 3: Restful Web Services with Spring boot
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/da9b0f96359aa0cba6c93952bb9b73dbeb84ed29
 	
 	scenario: Internationalization(i18) Implemeted
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/32243f7e76a1ff1893a622b12ff6528811237ffb
+	
+	scenario: Content Negotiation (xml support)
 	commit: 
