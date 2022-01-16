@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea
+/restfulwebservices/.mvn/wrapper/maven-wrapper.jar
+/restfulwebservices/.mvn/wrapper/maven-wrapper.properties
+/restfulwebservices/.mvn/wrapper/maven-wrapper.jar
+/restfulwebservices/.mvn/wrapper/maven-wrapper.jar
+/restfulwebservices/*.cmd
+/restfulwebservices/mvnw
+/restfulwebservices/.mvn/wrapper
+/*.bak
