@@ -38,7 +38,7 @@ Section 3: Restful Web Services with Spring boot
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/c2e7bef315659d6cd53e9dbdba09045d712c2568
 	
 Section 5: Microservices with Spring cloud version 1
-Use case: simple limit-service to read data from properties file
+Use case: simple limits-service to read data from properties file
 
 	scenario: simple limit service to read data from properties file
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/7ad41139e5ee50ba9fb7ca8085cc03848fc98dd2
@@ -50,4 +50,7 @@ Use case: Spring cloud config server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/5cb10cc70d36e46581345e6fb15bb3f1d72483fa
 	
 	scenario: connect limits-service to spring-cloud-config-server
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/7dbaa180e8d057855ff6f9ef3a9aef99b48c6ceb
+	
+	scenario: configure profiles for limits-service
 	commit: 
