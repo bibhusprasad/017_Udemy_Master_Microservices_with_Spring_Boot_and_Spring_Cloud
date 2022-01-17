@@ -40,3 +40,6 @@ hs_err_pid*
 /currency-exchange-service/.mvn
 /currency-exchange-service/mvnw.cmd
 /currency-exchange-service/mvnw
+/currency-conversion-service/.mvn
+/currency-conversion-service/mvnw.cmd
+/currency-conversion-service/mvnw
