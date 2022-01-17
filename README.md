@@ -39,12 +39,14 @@ Section 3: Restful Web Services with Spring boot
 	
 Section 5: Microservices with Spring cloud version 1
 Use case: simple limits-service to read data from properties file
+limits-service
 
 	scenario: simple limit service to read data from properties file
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/7ad41139e5ee50ba9fb7ca8085cc03848fc98dd2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/c762cfedb75aa753bf4b2a3ba38452808ae8ede4 (package name changed ws->ms)
 	
 Use case: Spring cloud config server
+spring-cloud-config-server
 
 	scenario: set up local git repository
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/5cb10cc70d36e46581345e6fb15bb3f1d72483fa
@@ -53,4 +55,10 @@ Use case: Spring cloud config server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/7dbaa180e8d057855ff6f9ef3a9aef99b48c6ceb
 	
 	scenario: configure profiles for limits-service
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/2bfdcf48fe5645273912db400e8efb5b220d1416
+	
+Use case: Introduction to currency conversion and currency exchange service
+currency-exchange-service
+
+	scenario: initial currency-exchange-service setup
 	commit: 
