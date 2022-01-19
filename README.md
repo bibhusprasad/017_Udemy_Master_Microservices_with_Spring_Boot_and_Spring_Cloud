@@ -82,4 +82,9 @@ Use case: Feign Rest Client	as service invocation (to replace RestTemplate)
 Use case: Client-side load balancing with Ribbon
 	
 	scenario: setting up client-side load balancing with Ribbon
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/22c3b8010fee403f980e5e7afaba3c5317325fc0
+	
+Use case: Understanding need of naming server	
+
+	scenario: setting of Eureka Naming Server
 	commit: 
