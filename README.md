@@ -85,6 +85,9 @@ Use case: Client-side load balancing with Ribbon
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/22c3b8010fee403f980e5e7afaba3c5317325fc0
 	
 Use case: Understanding need of naming server	
+netflix-eureka-naming-server
 
 	scenario: setting of Eureka Naming Server
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/4cf64c89224860518d0ae7601c49e803bcfe33ed
+	
+	scenario: connect currency-conversion-service to Eureka
