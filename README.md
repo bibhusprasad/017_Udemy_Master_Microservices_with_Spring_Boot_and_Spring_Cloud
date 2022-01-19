@@ -98,4 +98,7 @@ netflix-eureka-naming-server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/5e85d8bee9af18c7c95d6389ef0d755f88289264
 	
 	scenario: COURSE UPDATE : Exclude dependency on jackson-dataformat-xml (extra)
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/e27f05a01f29c3648b3996eb0ff49859a88251e4
+	
+	scenario: Distributing calls using Eureka and Ribbon
 	commit: 
