@@ -72,4 +72,9 @@ currency-conversion-service
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/11509cc33d112c6abda1292e066785f99c24db05
 	
 	scenario: invoking currency-exchange-service from currency-conversion-service
-	commit
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/2eb1b8fe9f6b2990568c7fb74f90dac6a2faca3f
+	
+Use case: Feign Rest Client	as service invocation (to replace RestTemplate)
+
+	scenario: Implementation of Feign Rest Client as service invocation
+	commit: 
