@@ -91,3 +91,7 @@ netflix-eureka-naming-server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/4cf64c89224860518d0ae7601c49e803bcfe33ed
 	
 	scenario: connect currency-conversion-service to Eureka
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/c61fb7242aaf385cac02a3cfa8a57e694f3e4c3b
+	
+	scenario: connect currency-exchange-service to Eureka
+	commit:
