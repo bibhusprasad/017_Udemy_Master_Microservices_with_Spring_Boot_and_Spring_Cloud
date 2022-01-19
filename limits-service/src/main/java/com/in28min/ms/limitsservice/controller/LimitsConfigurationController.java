@@ -1,11 +1,11 @@
-package com.in28min.ws.limitsservice.controller;
+package com.in28min.ms.limitsservice.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.in28min.ws.limitsservice.bean.Configuration;
-import com.in28min.ws.limitsservice.bean.LimitConfiguration;
+import com.in28min.ms.limitsservice.bean.Configuration;
+import com.in28min.ms.limitsservice.bean.LimitConfiguration;
 
 @RestController
 public class LimitsConfigurationController {

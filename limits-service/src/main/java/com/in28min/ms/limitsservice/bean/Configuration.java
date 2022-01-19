@@ -1,4 +1,4 @@
-package com.in28min.ws.limitsservice.bean;
+package com.in28min.ms.limitsservice.bean;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
