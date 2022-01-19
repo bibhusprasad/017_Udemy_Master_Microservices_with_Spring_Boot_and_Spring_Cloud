@@ -44,6 +44,7 @@ limits-service
 	scenario: simple limit service to read data from properties file
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/7ad41139e5ee50ba9fb7ca8085cc03848fc98dd2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/c762cfedb75aa753bf4b2a3ba38452808ae8ede4 (package name changed ws->ms)
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/486635df0aa86d9826640c0e1e1507a69382f03d (package name changed ws->ms)
 	
 Use case: Spring cloud config server
 spring-cloud-config-server
@@ -94,4 +95,7 @@ netflix-eureka-naming-server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/c61fb7242aaf385cac02a3cfa8a57e694f3e4c3b
 	
 	scenario: connect currency-exchange-service to Eureka
-	commit:
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/5e85d8bee9af18c7c95d6389ef0d755f88289264
+	
+	scenario: COURSE UPDATE : Exclude dependency on jackson-dataformat-xml (extra)
+	commit: 
