@@ -77,4 +77,9 @@ currency-conversion-service
 Use case: Feign Rest Client	as service invocation (to replace RestTemplate)
 
 	scenario: Implementation of Feign Rest Client as service invocation
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/072221848f13f282ef5737eaa8024b1eca697188
+	
+Use case: Client-side load balancing with Ribbon
+	
+	scenario: setting up client-side load balancing with Ribbon
 	commit: 
