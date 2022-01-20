@@ -104,6 +104,10 @@ netflix-eureka-naming-server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/259d3f05df4f9283400625e0a9846b536de3f904
 
 Use case: API Gateway
+netflix-zuul-api-gateway-server
 
 	scenario: setting up Zuul API gateway
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/fd80117d2e01c3a312a452709c7b76cb7cb2f8cc
+	
+	scenario: Implementing zuul logging filter
 	commit: 
