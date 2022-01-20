@@ -113,4 +113,9 @@ netflix-zuul-api-gateway-server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/9f40eedd93718dfe7f4ab21054f3e87d8825f22d
 	
 	scenario: Setting up Zuul API gateway between microservices
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/094c567751109cea464344f39f0a655eece5064b
+	
+Use case: Introduction to Distributed Tracing
+
+	scenario: Implementing Spring Cloud Sleuth
 	commit: 
