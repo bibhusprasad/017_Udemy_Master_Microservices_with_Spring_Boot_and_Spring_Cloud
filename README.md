@@ -101,4 +101,9 @@ netflix-eureka-naming-server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/e27f05a01f29c3648b3996eb0ff49859a88251e4
 	
 	scenario: Distributing calls using Eureka and Ribbon
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/259d3f05df4f9283400625e0a9846b536de3f904
+
+Use case: API Gateway
+
+	scenario: setting up Zuul API gateway
 	commit: 

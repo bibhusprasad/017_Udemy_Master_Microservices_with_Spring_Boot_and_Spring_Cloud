@@ -46,3 +46,6 @@ hs_err_pid*
 /netflix-eureka-naming-server/.mvn
 /netflix-eureka-naming-server/mvnw.cmd
 /netflix-eureka-naming-server/mvnw
+/netflix-zuul-api-gateway-server/.mvn
+/netflix-zuul-api-gateway-server/mvnw
+/netflix-zuul-api-gateway-server/mvnw.cmd
