@@ -110,4 +110,7 @@ netflix-zuul-api-gateway-server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/fd80117d2e01c3a312a452709c7b76cb7cb2f8cc
 	
 	scenario: Implementing zuul logging filter
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/9f40eedd93718dfe7f4ab21054f3e87d8825f22d
+	
+	scenario: Setting up Zuul API gateway between microservices
 	commit: 
