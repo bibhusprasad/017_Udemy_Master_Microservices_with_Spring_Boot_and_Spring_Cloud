@@ -120,4 +120,5 @@ Use case: Introduction to Distributed Tracing
 	scenario: Implementing Spring Cloud Sleuth
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/03a2d5955d074429a09a862b36c3ef22a1cebd05
 	
-	
+	scenario: connecting microservices to zipkin
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/4695e71a18a0bd98666ff8428361208c156931ed
