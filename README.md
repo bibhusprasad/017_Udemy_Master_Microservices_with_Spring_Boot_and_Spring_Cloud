@@ -118,4 +118,6 @@ netflix-zuul-api-gateway-server
 Use case: Introduction to Distributed Tracing
 
 	scenario: Implementing Spring Cloud Sleuth
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/03a2d5955d074429a09a862b36c3ef22a1cebd05
+	
+	
