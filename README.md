@@ -122,3 +122,11 @@ Use case: Introduction to Distributed Tracing
 	
 	scenario: connecting microservices to zipkin
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/4695e71a18a0bd98666ff8428361208c156931ed
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/acb5d975bba1064ca83e1396f9f1c47ebd2157b9
+	
+Use case: Implementing spring cloud bus
+limits-service
+spring-cloud-config-server
+
+	scenario: Implementing Spring Cloud Bus
+	commit: 
