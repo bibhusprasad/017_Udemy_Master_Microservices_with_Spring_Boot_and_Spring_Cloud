@@ -55,3 +55,6 @@ hs_err_pid*
 /spring-cloud-config-server-v2/mvnw.cmd
 /spring-cloud-config-server-v2/.mvn
 /spring-cloud-config-server-v2/mvnw
+/currency-exchange-service-v2/.mvn
+/currency-exchange-service-v2/mvnw
+/currency-exchange-service-v2/mvnw.cmd

@@ -148,4 +148,10 @@ spring-cloud-config-server-v2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/991bce8fccd70534ff8508bf4422e9eac0d8906d
 	
 	scenario: configure profiles for limits-service
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/98030504b380d3f5fff7ff3a6bb5ac3f03eecbde
+	
+Use case: Introduction to currency conversion and currency exchange service
+currency-exchange-service-v2
+
+	scenario: Implementing currency-exchange-service-v2 with jpa and h2 database
 	commit: 
