@@ -145,4 +145,7 @@ Use case: Spring cloud config server V2
 spring-cloud-config-server-v2	
 	
 	scenario: set up local git repository
-	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/5cb10cc70d36e46581345e6fb15bb3f1d72483fa
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/991bce8fccd70534ff8508bf4422e9eac0d8906d
+	
+	scenario: configure profiles for limits-service
+	commit: 
