@@ -173,4 +173,7 @@ netflix-eureka-naming-server-v2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/25c16e3f52cbc78f7c8322057a98e8c3dd86925b
 	
 	scenario: Connect currency-exchange-service-v2 and currency-conversion-service-v2 with Eureka Naming Server
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/f28b4b24aaf08cc3a620b0a6ad71cd2d5ac60045
+
+	scenario: Load Balancing with Eureka, Feign, and Spring Cloud LoadBalancer
+	commit:
