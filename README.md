@@ -159,4 +159,6 @@ currency-exchange-service-v2
 currency-conversion-service-v2
 
 	scenario: Initializing and invoking currency-exchange-service from currency-conversion-service
-	commit:
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/49c4976dbff939ce38b0a46cea9bee31d9809e4b
+	
+	
