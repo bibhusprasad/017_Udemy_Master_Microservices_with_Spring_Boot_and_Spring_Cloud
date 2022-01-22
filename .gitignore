@@ -49,3 +49,6 @@ hs_err_pid*
 /netflix-zuul-api-gateway-server/.mvn
 /netflix-zuul-api-gateway-server/mvnw
 /netflix-zuul-api-gateway-server/mvnw.cmd
+/limits-service-v2/.mvn
+/limits-service-v2/mvnw.cmd
+/limits-service-v2/mvnw
