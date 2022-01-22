@@ -170,4 +170,7 @@ Use case: Understanding need of naming server
 netflix-eureka-naming-server-v2
 	
 	scenario: setting of Eureka Naming Server
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/25c16e3f52cbc78f7c8322057a98e8c3dd86925b
+	
+	scenario: Connect currency-exchange-service-v2 and currency-conversion-service-v2 with Eureka Naming Server
 	commit: 
