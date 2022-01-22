@@ -161,4 +161,13 @@ currency-conversion-service-v2
 	scenario: Initializing and invoking currency-exchange-service from currency-conversion-service
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/49c4976dbff939ce38b0a46cea9bee31d9809e4b
 	
+Use case: Feign Rest Client	as service invocation (to replace RestTemplate)
 	
+	scenario: Feign Rest Client	as service invocation
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/ca40a2fc7f4f7f1dd6709b3b383affed445d239e
+	
+Use case: Understanding need of naming server	
+netflix-eureka-naming-server-v2
+	
+	scenario: setting of Eureka Naming Server
+	commit: 

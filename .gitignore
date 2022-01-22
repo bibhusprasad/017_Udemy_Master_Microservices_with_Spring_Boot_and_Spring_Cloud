@@ -61,3 +61,6 @@ hs_err_pid*
 /currency-conversion-service-v2/mvnw.cmd
 /currency-conversion-service-v2/.mvn
 /currency-conversion-service-v2/mvnw
+/netflix-eureka-naming-server-v2/mvnw.cmd
+/netflix-eureka-naming-server-v2/.mvn
+/netflix-eureka-naming-server-v2/mvnw
