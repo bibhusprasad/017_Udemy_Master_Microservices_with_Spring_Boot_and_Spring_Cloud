@@ -129,4 +129,6 @@ limits-service
 spring-cloud-config-server
 
 	scenario: Implementing Spring Cloud Bus
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/91ab04eb3352b66f95b7be86759fca504b9542d8
+	
+	scenario:
