@@ -137,3 +137,12 @@ spring-cloud-config-server
 Section 6: Microservices with Spring cloud version 2
 Use case: simple limits-service to read data from properties file
 limits-service-V2
+
+	Use case: simple limits-service to read data from properties file v2
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/d8c6fc7017d321550feea8378a4403072fb270d8
+	
+Use case: Spring cloud config server V2
+spring-cloud-config-server-v2	
+	
+	scenario: set up local git repository
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/5cb10cc70d36e46581345e6fb15bb3f1d72483fa
