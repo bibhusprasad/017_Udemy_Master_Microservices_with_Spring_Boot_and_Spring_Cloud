@@ -154,4 +154,9 @@ Use case: Introduction to currency conversion and currency exchange service
 currency-exchange-service-v2
 
 	scenario: Implementing currency-exchange-service-v2 with jpa and h2 database
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/2ba3da6ecd6ad22e3a6ad0b05fc971a930dd83e2
+	
+currency-conversion-service-v2
+
+	scenario: Initializing and invoking currency-exchange-service from currency-conversion-service
+	commit:

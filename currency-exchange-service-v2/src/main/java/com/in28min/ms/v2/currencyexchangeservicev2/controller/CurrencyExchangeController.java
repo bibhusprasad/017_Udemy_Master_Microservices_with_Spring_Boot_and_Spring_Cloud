@@ -21,7 +21,7 @@ public class CurrencyExchangeController {
     public CurrencyExchange retrieveExchangeValue(
             @PathVariable final String from,
             @PathVariable final String to) {
-        
+
         final CurrencyExchange currencyExchange
                 = this.repository.findByFromAndTo(from, to);
         if(currencyExchange ==null) {
