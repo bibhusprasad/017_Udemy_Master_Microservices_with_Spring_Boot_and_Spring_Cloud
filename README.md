@@ -196,4 +196,7 @@ spring-cloud-api-gateway-server-v2
 Use case: Getting started with Circuit Breaker
 	
 	scenario: Playing with Resilience4j - Retry and Fallback Methods
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/4faa65ca288e47562918660868a6230ebffc0715
+	
+	scenario: Playing with Circuit Breaker of Resilience4j
 	commit: 
