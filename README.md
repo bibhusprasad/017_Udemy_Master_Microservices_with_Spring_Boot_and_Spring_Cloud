@@ -199,4 +199,6 @@ Use case: Getting started with Circuit Breaker
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/4faa65ca288e47562918660868a6230ebffc0715
 	
 	scenario: Playing with Circuit Breaker of Resilience4j
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/e1645284589b44eb8061106709e8009b7f08de71
+	
+	scenario: 
