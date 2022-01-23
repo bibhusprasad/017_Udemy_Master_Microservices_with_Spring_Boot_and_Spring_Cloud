@@ -191,6 +191,9 @@ spring-cloud-api-gateway-server-v2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/dd0c721ab1fc443e2c43b54ef473436813339f4e
 	
 	scenario: Implementing Spring Cloud Gateway Logging Filtering
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/ebc0b20618e21ac03f8c522e57b2299d89c212fb
+	
+Use case: Getting started with Circuit Breaker
+	
+	scenario: Playing with Resilience4j - Retry and Fallback Methods
 	commit: 
-	
-	
