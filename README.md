@@ -185,7 +185,12 @@ spring-cloud-api-gateway-server-v2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/339ad2282c67ed84392fb8f05a72bbde73d28295
 	
 	scenario: Enabling Discovery Locator with Eureka for Spring cloud gateway
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/90d4b2c6e402f5c33df4212576d7c36c2369faad
 	
+	scenario: Exploring Routes with Spring Cloud Gateway
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/dd0c721ab1fc443e2c43b54ef473436813339f4e
+	
+	scenario: Implementing Spring Cloud Gateway Logging Filtering
+	commit: 
 	
 	
