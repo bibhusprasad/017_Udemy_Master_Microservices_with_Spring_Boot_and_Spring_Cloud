@@ -64,3 +64,6 @@ hs_err_pid*
 /netflix-eureka-naming-server-v2/mvnw.cmd
 /netflix-eureka-naming-server-v2/.mvn
 /netflix-eureka-naming-server-v2/mvnw
+/spring-cloud-api-gateway-server-v2/mvnw.cmd
+/spring-cloud-api-gateway-server-v2/.mvn
+/spring-cloud-api-gateway-server-v2/mvnw

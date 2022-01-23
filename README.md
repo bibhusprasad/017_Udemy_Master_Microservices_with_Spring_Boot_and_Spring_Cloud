@@ -100,7 +100,7 @@ netflix-eureka-naming-server
 	scenario: COURSE UPDATE : Exclude dependency on jackson-dataformat-xml (extra)
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/e27f05a01f29c3648b3996eb0ff49859a88251e4
 	
-	scenario: Distributing calls using Eureka and Ribbon
+	scenario: Distributing/Loadbalancer calls using Eureka and Ribbon
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/259d3f05df4f9283400625e0a9846b536de3f904
 
 Use case: API Gateway
@@ -175,5 +175,12 @@ netflix-eureka-naming-server-v2
 	scenario: Connect currency-exchange-service-v2 and currency-conversion-service-v2 with Eureka Naming Server
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/f28b4b24aaf08cc3a620b0a6ad71cd2d5ac60045
 
-	scenario: Load Balancing with Eureka, Feign, and Spring Cloud LoadBalancer
-	commit:
+	scenario: Distributed / Load Balancing with Eureka, Feign, and Spring Cloud LoadBalancer
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/425bf9a4c7037ea497cb89604403a2f065143993
+	
+Use case: Spring Cloud API Gateway
+spring-cloud-api-gateway-server-v2
+
+	scenario: setting up Spring cloud API gateway
+	commit: 
+	
