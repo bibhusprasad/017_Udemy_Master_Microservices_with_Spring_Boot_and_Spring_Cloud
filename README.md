@@ -182,5 +182,10 @@ Use case: Spring Cloud API Gateway
 spring-cloud-api-gateway-server-v2
 
 	scenario: setting up Spring cloud API gateway
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/339ad2282c67ed84392fb8f05a72bbde73d28295
+	
+	scenario: Enabling Discovery Locator with Eureka for Spring cloud gateway
 	commit: 
+	
+	
 	
