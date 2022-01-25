@@ -201,4 +201,10 @@ Use case: Getting started with Circuit Breaker
 	scenario: Playing with Circuit Breaker of Resilience4j
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/e1645284589b44eb8061106709e8009b7f08de71
 	
-	scenario: 
+	scenario: Exploring Rate Limiting  and BulkHead Features of Resilience4j
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/615f8db07eaae27ba4448663223e93cf843a0f27
+	
+Section 7: Docker and Microservices using Spring Boot and Spring Cloud version 2
+
+	scenario: Basic docker commands 
+	commit: 
