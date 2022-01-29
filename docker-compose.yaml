@@ -10,8 +10,12 @@ services:
     environment:
       eureka.client.serviceUrl.defaultZone: http://netflix-eureka-naming-server-v2:8761/eureka/
       spring.zipkin.baseUrl: http://zipkin-server:9411/
+      RABBIT_URI: amqp://guest:guest@rabbitmq:5672
+      spring.rabbitmq.host: rabbitmq
+      spring.zipkin.sender.type: rabbit
     depends_on:
       - netflix-eureka-naming-server-v2
+      - rabbitmq
   currency-conversion-service-v2:
     image: bibhu082/mmv2-currency-conversion-service-v2:0.0.1-SNAPSHOT
     mem_limit: 700m
@@ -22,8 +26,12 @@ services:
     environment:
       eureka.client.serviceUrl.defaultZone: http://netflix-eureka-naming-server-v2:8761/eureka/
       spring.zipkin.baseUrl: http://zipkin-server:9411/
+      RABBIT_URI: amqp://guest:guest@rabbitmq:5672
+      spring.rabbitmq.host: rabbitmq
+      spring.zipkin.sender.type: rabbit
     depends_on:
       - netflix-eureka-naming-server-v2
+      - rabbitmq
   spring-cloud-api-gateway-server-v2:
     image: bibhu082/mmv2-spring-cloud-api-gateway-server-v2:0.0.1-SNAPSHOT
     mem_limit: 700m
@@ -34,8 +42,12 @@ services:
     environment:
       eureka.client.serviceUrl.defaultZone: http://netflix-eureka-naming-server-v2:8761/eureka/
       spring.zipkin.baseUrl: http://zipkin-server:9411/
+      RABBIT_URI: amqp://guest:guest@rabbitmq:5672
+      spring.rabbitmq.host: rabbitmq
+      spring.zipkin.sender.type: rabbit
     depends_on:
       - netflix-eureka-naming-server-v2
+      - rabbitmq
   netflix-eureka-naming-server-v2:
     image: bibhu082/mmv2-netflix-eureka-naming-server-v2:0.0.1-SNAPSHOT
     mem_limit: 700m
@@ -48,6 +60,19 @@ services:
     mem_limit: 300m
     ports:
       - "9411:9411"
+    networks:
+      - currency-network-v2
+    environment:
+      RABBIT_URI: amqp://guest:guest@rabbitmq:5672
+    depends_on:
+      - rabbitmq
+    restart: always #Restart if there is a problem starting up
+  rabbitmq:
+    image: rabbitmq:3.9.13-management
+    mem_limit: 300m
+    ports:
+      - "5672:5672"
+      - "15672:15672"
     networks:
       - currency-network-v2
 networks:
