@@ -71,3 +71,6 @@ playing with docker commands
 	//show all details (volumes)
 >docker run -m 512m --cpu-quota 50000
 
+
+Zipkins
+>docker run -p 9411:9411 openzipkin/zipkin:2.23.16

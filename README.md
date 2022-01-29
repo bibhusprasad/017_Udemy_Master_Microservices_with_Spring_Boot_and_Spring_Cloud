@@ -207,4 +207,8 @@ Use case: Getting started with Circuit Breaker
 Section 7: Docker and Microservices using Spring Boot and Spring Cloud version 2
 
 	scenario: Basic docker commands 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/62fff21af8d9acef36fe8470d60994ea7390e63a
+	
+	scenario: Launching Zipkin container using Docker
+	scenario: connecting our microservices with Docker
 	commit: 
