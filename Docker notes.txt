@@ -80,6 +80,12 @@ command to create a docker image
 
 //To run our custom docker image 
 docker run -p 8000:8000 bibhu082/mmv2-currency-exchange-service-v2:0.0.1-SNAPSHOT
+docker run -p 8761:8761 bibhu082/mmv2-netflix-eureka-naming-server-v2:0.0.1-SNAPSHOT
+docker run -p 8100:8100 bibhu082/mmv2-currency-conversion-service-v2:0.0.1-SNAPSHOT
+docker run -p 8765:8765 bibhu082/mmv2-spring-cloud-api-gateway-server-v2:0.0.1-SNAPSHOT
 
 //check docker compose version
 >docker-compose --version
+
+>docker-compose up
+//command to run docker-compose file

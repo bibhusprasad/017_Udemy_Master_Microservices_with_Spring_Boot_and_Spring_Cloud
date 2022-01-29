@@ -217,4 +217,7 @@ Section 7: Docker and Microservices using Spring Boot and Spring Cloud version 2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/ee8d02d548805c288f0f1b807bfb6830ca7f3130
 	
 	scenario: started with Docker compose for currency-exchange-service-v2
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/8c57d99a890b5a9f37580de9741edacc1992a10d
+	
+	scenario: started with Docker compose for netflix-eureka-naming-server-v2
 	commit: 
