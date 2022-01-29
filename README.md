@@ -219,5 +219,8 @@ Section 7: Docker and Microservices using Spring Boot and Spring Cloud version 2
 	scenario: started with Docker compose for currency-exchange-service-v2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/8c57d99a890b5a9f37580de9741edacc1992a10d
 	
-	scenario: started with Docker compose for netflix-eureka-naming-server-v2
+	scenario: started with Docker compose for other microservices
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/d30e0b084016e1aec510d5836795e53b29d40a88
+	
+	scenario: running zipkin with docker composer
 	commit: 

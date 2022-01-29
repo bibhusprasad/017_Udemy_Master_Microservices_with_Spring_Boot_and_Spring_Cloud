@@ -9,6 +9,7 @@ services:
       - currency-network-v2
     environment:
       eureka.client.serviceUrl.defaultZone: http://netflix-eureka-naming-server-v2:8761/eureka/
+      spring.zipkin.baseUrl: http://zipkin-server:9411/
     depends_on:
       - netflix-eureka-naming-server-v2
   currency-conversion-service-v2:
@@ -20,6 +21,7 @@ services:
       - currency-network-v2
     environment:
       eureka.client.serviceUrl.defaultZone: http://netflix-eureka-naming-server-v2:8761/eureka/
+      spring.zipkin.baseUrl: http://zipkin-server:9411/
     depends_on:
       - netflix-eureka-naming-server-v2
   spring-cloud-api-gateway-server-v2:
@@ -31,6 +33,7 @@ services:
       - currency-network-v2
     environment:
       eureka.client.serviceUrl.defaultZone: http://netflix-eureka-naming-server-v2:8761/eureka/
+      spring.zipkin.baseUrl: http://zipkin-server:9411/
     depends_on:
       - netflix-eureka-naming-server-v2
   netflix-eureka-naming-server-v2:
@@ -38,6 +41,13 @@ services:
     mem_limit: 700m
     ports:
       - "8761:8761"
+    networks:
+      - currency-network-v2
+  zipkin-server:
+    image: openzipkin/zipkin:2.23.16
+    mem_limit: 300m
+    ports:
+      - "9411:9411"
     networks:
       - currency-network-v2
 networks:
