@@ -74,3 +74,9 @@ playing with docker commands
 
 Zipkins
 >docker run -p 9411:9411 openzipkin/zipkin:2.23.16
+
+command to create a docker image
+>mvn spring-boot:build-image -DskipTests
+
+//To run our custom docker image 
+docker run -p 8000:8000 bibhu082/mmv2-currency-exchange-service-v2:0.0.1-SNAPSHOT

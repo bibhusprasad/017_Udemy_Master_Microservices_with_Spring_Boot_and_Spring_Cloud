@@ -211,4 +211,7 @@ Section 7: Docker and Microservices using Spring Boot and Spring Cloud version 2
 	
 	scenario: Launching Zipkin container using Docker
 	scenario: connecting our microservices with Docker
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/b462b56dd1f53e8fbc653acf39c86b1eaefa828a
+
+	scenario: creating Docker container image for currency-exchange-service-v2
 	commit: 
