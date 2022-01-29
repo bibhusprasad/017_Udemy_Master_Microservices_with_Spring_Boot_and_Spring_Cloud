@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  currency-exchange-service-v2:
+    image: bibhu082/mmv2-currency-exchange-service-v2:0.0.1-SNAPSHOT
+    mem_limit: 700m
+    ports:
+      - "8000:8000"
+    networks:
+      - currency-exchange-network-v2
+
+networks:
+  currency-exchange-network-v2:

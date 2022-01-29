@@ -80,3 +80,6 @@ command to create a docker image
 
 //To run our custom docker image 
 docker run -p 8000:8000 bibhu082/mmv2-currency-exchange-service-v2:0.0.1-SNAPSHOT
+
+//check docker compose version
+>docker-compose --version
