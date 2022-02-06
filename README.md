@@ -226,4 +226,6 @@ Section 7: Docker and Microservices using Spring Boot and Spring Cloud version 2
 	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/eadfcce468c2b938b46ebcb52a1ebea3c1b9ab57
 	
 	scenario: running zipkin and RabbitMq with docker composer
-	commit: 
+	commit: https://github.com/bibhusprasad/017_Udemy_Master_Microservices_with_Spring_Boot_and_Spring_Cloud/commit/d63bb7214a458efea7cee2448ed74e9a50f06599
+	
+Section 8: Kubernetes with Microservices using Docker, Spring Boot and Spring Cloud version 2
