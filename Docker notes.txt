@@ -1,6 +1,6 @@
 Install Docker
 After that open powershell
->docket --version	//to check the version
+>docker --version	//to check the version
 >docker run in28min/todo-rest-api-h2:1.0.0.RELEASE
 	// downloaded a new docker image from hub
 https://hub.docker.com/r/in28min/todo-rest-api-h2
